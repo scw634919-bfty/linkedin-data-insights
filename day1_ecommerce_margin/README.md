@@ -10,8 +10,8 @@
 
 ## Insight
 
-- 12 of 20 SKUs (60%) have a negative margin. Total loss is $226,500.
-- Because of this, the whole business is at -$21,400 on $2.69M sales.
+- 12 of 20 SKUs (60%) have a negative margin. Total loss is \$226,500.
+- Because of this, the whole business is at -\$21,400 on \$2.69M sales.
 - All 12 SKUs have COGS higher than the sales price, so they lose money even before returns.
 - 56% of the loss is from the price gap and 44% is from returns and logistics.
 
